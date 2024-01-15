@@ -26,7 +26,7 @@ const GlobalStyle = createGlobalStyle`
         }
     }
     .title-word {
-        animation: color-animation 45s linear infinite;
+        animation: color-animation 20s linear infinite;
       }
 
       .title-word-1 {
